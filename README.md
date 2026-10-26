@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-    <a href="https://arxiv.org/abs/2606.23050">
+    <a href="https://github.com/baidu/Unlimited-OCR/blob/Unlimited-OCR-2/Unlimited-OCR-2.pdf">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-Unlimited OCR Works 2-b31b1b?logo=arxiv&logoColor=white" />
   </a>
   <a href="https://x.com/Baidu_Inc" target="_blank">
