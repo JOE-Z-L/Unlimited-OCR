@@ -1,6 +1,6 @@
 <div align="center">
 
-![Baidu Inc.](assets/logo.png)
+<img src="assets/logo.png" width="40%" alt="Baidu Inc." />
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-![Unlimited OCR 2 overview](assets/Unlimited-OCR2.png)
+<img src="assets/Unlimited-OCR2.png" width="1000" alt="Unlimited OCR 2 overview" />
 
 </div>
 
