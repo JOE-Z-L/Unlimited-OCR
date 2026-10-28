@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="assets/Unlimited-OCR2.png" width="1000" alt="Unlimited OCR 2 overview" />
+<img src="assets/Unlimited-OCR2.png" width="600" alt="Unlimited OCR 2 overview" />
 
 </div>
 
